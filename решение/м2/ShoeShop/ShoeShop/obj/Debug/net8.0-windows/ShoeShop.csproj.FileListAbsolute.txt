@@ -1,0 +1,51 @@
+C:\Users\ChibisovaAE\Desktop\демоэкз\demo_2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ChibisovaAE\Desktop\демоэкз\demo_2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ChibisovaAE\Desktop\демоэкз\demo_2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ShoeShop_Content.g.cs
+C:\Users\ChibisovaAE\Desktop\демоэкз\demo_2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ShoeShop_MarkupCompile.cache
+C:\Users\ChibisovaAE\Desktop\демоэкз\demo_2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ShoeShop_MarkupCompile.lref
+C:\Users\ChibisovaAE\Desktop\демоэкз\demo_2026\решение\м2\ShoeShop\ShoeShop\bin\Debug\net8.0-windows\Resources\Icon.ico
+C:\Users\ChibisovaAE\Desktop\демоэкз\demo_2026\решение\м2\ShoeShop\ShoeShop\bin\Debug\net8.0-windows\ShoeShop.exe
+C:\Users\ChibisovaAE\Desktop\демоэкз\demo_2026\решение\м2\ShoeShop\ShoeShop\bin\Debug\net8.0-windows\ShoeShop.deps.json
+C:\Users\ChibisovaAE\Desktop\демоэкз\demo_2026\решение\м2\ShoeShop\ShoeShop\bin\Debug\net8.0-windows\ShoeShop.runtimeconfig.json
+C:\Users\ChibisovaAE\Desktop\демоэкз\demo_2026\решение\м2\ShoeShop\ShoeShop\bin\Debug\net8.0-windows\ShoeShop.dll
+C:\Users\ChibisovaAE\Desktop\демоэкз\demo_2026\решение\м2\ShoeShop\ShoeShop\bin\Debug\net8.0-windows\ShoeShop.pdb
+C:\Users\ChibisovaAE\Desktop\демоэкз\demo_2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ChibisovaAE\Desktop\демоэкз\demo_2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ShoeShop.g.resources
+C:\Users\ChibisovaAE\Desktop\демоэкз\demo_2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ShoeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChibisovaAE\Desktop\демоэкз\demo_2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ShoeShop.AssemblyInfoInputs.cache
+C:\Users\ChibisovaAE\Desktop\демоэкз\demo_2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ShoeShop.AssemblyInfo.cs
+C:\Users\ChibisovaAE\Desktop\демоэкз\demo_2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ShoeShop.csproj.CoreCompileInputs.cache
+C:\Users\ChibisovaAE\Desktop\демоэкз\demo_2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ShoeShop.sourcelink.json
+C:\Users\ChibisovaAE\Desktop\демоэкз\demo_2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ShoeShop.dll
+C:\Users\ChibisovaAE\Desktop\демоэкз\demo_2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\refint\ShoeShop.dll
+C:\Users\ChibisovaAE\Desktop\демоэкз\demo_2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ShoeShop.pdb
+C:\Users\ChibisovaAE\Desktop\демоэкз\demo_2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ShoeShop.genruntimeconfig.cache
+C:\Users\ChibisovaAE\Desktop\демоэкз\demo_2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ref\ShoeShop.dll
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\bin\Debug\net8.0-windows\Resources\Icon.ico
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\bin\Debug\net8.0-windows\ShoeShop.exe
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\bin\Debug\net8.0-windows\ShoeShop.deps.json
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\bin\Debug\net8.0-windows\ShoeShop.runtimeconfig.json
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\bin\Debug\net8.0-windows\ShoeShop.dll
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\bin\Debug\net8.0-windows\ShoeShop.pdb
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ShoeShop_Content.g.cs
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ShoeShop_MarkupCompile.cache
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ShoeShop_MarkupCompile.lref
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ShoeShop.g.resources
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ShoeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ShoeShop.AssemblyInfoInputs.cache
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ShoeShop.AssemblyInfo.cs
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ShoeShop.csproj.CoreCompileInputs.cache
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ShoeShop.sourcelink.json
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ShoeShop.dll
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\refint\ShoeShop.dll
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ShoeShop.pdb
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ShoeShop.genruntimeconfig.cache
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\ref\ShoeShop.dll
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\Styles\MainFont.baml
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\Styles\Styles.baml
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\Windows\LoginWin.g.cs
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\App.baml
+C:\Users\albin\Desktop\gheluag\проекты\рабочие программы\демоэкз\2026\решение\м2\ShoeShop\ShoeShop\obj\Debug\net8.0-windows\Windows\LoginWin.baml

@@ -1,0 +1,31 @@
+﻿<Window x:Class="ShoeShop.Windows.LoginWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ShoeShop.Windows"
+        mc:Ignorable="d"
+        Title="ООО &quot;Обувь&quot;" Height="350" Width="450"
+        WindowStartupLocation="CenterScreen">
+    <StackPanel VerticalAlignment="Center"
+                HorizontalAlignment="Center">
+        <TextBlock Text="Авторизация"
+                   FontWeight="Bold"
+                 Margin="5"
+                   VerticalAlignment="Center"
+                HorizontalAlignment="Center"/>
+        <TextBox x:Name="LoginTB" 
+                 Style="{StaticResource TbRounded}"/>
+        <TextBox x:Name="PasswTB" 
+                 Style="{StaticResource TbRounded}"/>
+        <Button x:Name="LoginBtn"
+                Style="{StaticResource LoginBtn}"
+                Content="Войти"
+                Margin="10"/>
+        <TextBlock Text="Посмотреть товары"
+                   VerticalAlignment="Center"
+                HorizontalAlignment="Center"
+                   Cursor="Hand"
+                   MouseLeftButtonUp="TextBlock_MouseLeftButtonUp"/>
+    </StackPanel>
+</Window>
