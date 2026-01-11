@@ -5,8 +5,8 @@
         <Setter Property="Background" Value="#7FFF00" />
         <Setter Property="Foreground" Value="Black" />
         <Setter Property="BorderThickness" Value="0" />
-        <Setter Property="Height" Value="20"/>
-        <Setter Property="Width" Value="150"/>
+        <Setter Property="Height" Value="20" />
+        <Setter Property="Width" Value="150" />
         <Setter Property="Template">
             <Setter.Value>
                 <ControlTemplate TargetType="Button">
@@ -26,28 +26,13 @@
         </Setter>
     </Style>
 
-    <Style x:Key="TbRounded" TargetType="TextBox">
-        <Setter Property="BorderThickness" Value="1" />
-        <Setter Property="BorderBrush" Value="#d9d9d9" />
-        <Setter Property="Background" Value="White" />
-        <Setter Property="Height" Value="30"/>
-        <Setter Property="Width" Value="200"/>
-        <Setter Property="Margin" Value="5"/>
-        <Setter Property="Template">
-            <Setter.Value>
-                <ControlTemplate TargetType="TextBox">
-                    <Border
-                        x:Name="BorderTB"
-                        Background="{TemplateBinding Background}"
-                        BorderBrush="{TemplateBinding BorderBrush}"
-                        BorderThickness="{TemplateBinding BorderThickness}"
-                        CornerRadius="10" />
-                </ControlTemplate>
-            </Setter.Value>
-        </Setter>
-    </Style>
+   
 
-    
+
+    <Style x:Key="BorderSt" TargetType="Border">
+        <Setter Property="BorderBrush" Value="Black" />
+        <Setter Property="BorderThickness" Value="2" />
+    </Style>
 
 
 </ResourceDictionary>
